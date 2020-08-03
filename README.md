@@ -2,5 +2,5 @@
 Repository For Smart India Hackathon
 
 
-We provided the google drive link of our work, we uploaded all kind of research work documents and our ppt over here.
+We provided the google drive link of our work, we uploaded all kind of research work documents and our ppt over there.
 https://drive.google.com/folderview?id=1AQVHOaTgas7qF5ia62VLMBSUrJBbRFgz
